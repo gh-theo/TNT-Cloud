@@ -4,7 +4,7 @@
 
 **最便宜的订阅有8元 60g/月(年付)。**
 
-**点击购买👉👉👉** [TNT Cloud VPN官网](https://eoht.net/serve/airport/xdm)
+**点击购买👉👉👉** [TNT Cloud VPN官网](https://eoht.net/serve/airport/summary)
 
 **当前可用的官方注册地址，稳定不跳转、不失效。**
 
@@ -32,15 +32,15 @@
 
 |  套餐类型  |  流量/月  | 月付 | 季付 | 半年付 | 年付  | 设备限制 |                                                    套餐购买                                                    |
 | :--------: | :-------: | :--: | :--: | :----: | :---: | :------: | :------------------------------------------------------------------------------------------------------------: |
-| **轻量包** |  **60G**  |  -   | ¥30  |  ¥56   |  ¥98  |  无限制  | [立即购买](https://eoht.net/serve/airport/xdm) |
-|  **VIP1**  | **110G**  | ¥20  | ¥54  |  ¥102  | ¥192  |  无限制  | [立即购买](https://eoht.net/serve/airport/xdm) |
-|  **VIP2**  | **220G**  | ¥40  | ¥108 |  ¥204  | ¥336  |  无限制  | [立即购买](https://eoht.net/serve/airport/xdm) |
-|  **VIP3**  | **460G**  | ¥80  | ¥216 |  ¥408  | ¥768  |  无限制  | [立即购买](https://eoht.net/serve/airport/xdm) |
-|  **VIP4**  | **1100G** | ¥160 | ¥432 |  ¥816  | ¥1536 |  无限制  | [立即购买](https://eoht.net/serve/airport/xdm) |
+| **轻量包** |  **60G**  |  -   | ¥30  |  ¥56   |  ¥98  |  无限制  | [立即购买](https://eoht.net/serve/airport/summary) |
+|  **VIP1**  | **110G**  | ¥20  | ¥54  |  ¥102  | ¥192  |  无限制  | [立即购买](https://eoht.net/serve/airport/summary) |
+|  **VIP2**  | **220G**  | ¥40  | ¥108 |  ¥204  | ¥336  |  无限制  | [立即购买](https://eoht.net/serve/airport/summary) |
+|  **VIP3**  | **460G**  | ¥80  | ¥216 |  ¥408  | ¥768  |  无限制  | [立即购买](https://eoht.net/serve/airport/summary) |
+|  **VIP4**  | **1100G** | ¥160 | ¥432 |  ¥816  | ¥1536 |  无限制  | [立即购买](https://eoht.net/serve/airport/summary) |
 
 ## TNT Cloud VPN 真实测速图（高峰期表现实测）
 
-完整测速图、流媒体与 AI 解锁结果请查看：[完整评测](https://eoht.net/serve/airport/xdm)
+完整测速图、流媒体与 AI 解锁结果请查看：[完整评测](https://eoht.net/serve/airport/summary)
 
 - [🔥🔥🔥2026年便宜好用的翻墙VPN机场推荐评测(长期更新 欢迎推荐)](https://eoht.net/serve/airport/summary)
 - [翻墙科学上网客户端使用教程汇总](https://eoht.net/serve/antiwall/summary)
